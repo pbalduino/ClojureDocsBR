@@ -1,6 +1,6 @@
 # cljdocs
 
-FIXME
+FIXME.
 
 ## Prerequisites
 
